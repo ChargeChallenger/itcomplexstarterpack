@@ -16,11 +16,11 @@
 	<h3><a href="/phpbasics/task3.php">Задача 3</a></h3>
 
 	<h2>2. Классы и объекты PHP</h2>
-	<h3><a href="/phpclasses/task1.php">Задача 1</a></h3>
-	<h3><a href="/phpclasses/task2.php">Задача 2</a></h3>
+	<h3><a href="/phpclasses/task1.php">Задача 1 (в процессе)</a></h3>
+	<h3><a href="/phpclasses/task2.php">Задача 2 (в процессе)</a></h3>
 
 	<h2>3. Javascript</h2>
-	<h3><a href="/js/task1.php">Задача 1</a></h3>
+	<h3><a href="/js/task1.php">Задача 1 (в процессе)</a></h3>
 
 	<h2>Аттестация</h2>
 	<h3><a href="/attestation/phptask1.php">PHP. Уровень 1</a></h3>
