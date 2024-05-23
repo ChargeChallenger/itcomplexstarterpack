@@ -85,7 +85,7 @@ class Cage
 			$this->CageName = "Aquarium";
 			$this->SpecialFor = $KingdomName;
 		} else if ($KingdomName == "Bird") {
-			$this->CageName = "Aquarium";
+			$this->CageName = "Cage";
 			$this->SpecialFor = $KingdomName;
 		}
 	}
